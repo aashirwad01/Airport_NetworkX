@@ -1,4 +1,5 @@
 #Though readme is updated there still needs to be pictures to be added as visualization from  jupyter notebooks could not be added.
+# I would recommend reading project report named as report_airline_route_delay_prediction_1 pdf file.
 # Problem:
 
 # we need to predict the delay of flights and built a route recommendation using networkx.
